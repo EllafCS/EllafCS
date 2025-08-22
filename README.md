@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Elaf Aljarameez
 - 👀 I’m interested in UI Design and Mobile App
-- 🌱 I’m currently learning Cybersecirty
 - 📫 How to reach me elafaljarameez@gmail.com
 
 
